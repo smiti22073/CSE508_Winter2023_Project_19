@@ -1,0 +1,3 @@
+Book genre classification dataset - CMU Book Summary Dataset
+
+Link - https://www.cs.cmu.edu/~dbamman/booksummaries.html
