@@ -1,0 +1,3 @@
+English music dataset - GTZAN dataset
+
+Link - https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
