@@ -17,13 +17,21 @@
 
 ## Following are the installation requirements for running this project:
 pip install numpy==1.23.5
+
 pip install audioread==3.0.0
+
 pip install pandas==2.0.1
+
 pip install librosa==0.8.0
+
 pip install tabulate==0.9.0
+
 pip install flask==2.3.2
+
 pip install sklearn==1.2.2
+
 pip install lightgbm==3.3.5
+
 pip install nltk==3.8.1
 
 After the installations of these packages, the user needs to -
